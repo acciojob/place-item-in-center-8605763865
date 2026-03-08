@@ -1,8 +1,9 @@
 .holder{
 	display:flex;
+	justify-content:center;
 	align-items:centre;
-	width:100vw;
-	height:100vh;
+	width:vw;
+	height:vh;
 }
 .item-1{
 	width:100px;
