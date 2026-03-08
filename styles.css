@@ -1,13 +1,13 @@
 .holder{
 	display:flex;
 	justify-content:center;
-	align-items:centre;
-	width:vw;
-	height:vh;
+	align-items:center;
+	width:100vw;
+	height:100vh;
 }
 .item-1{
 	width:100px;
 	height:100px;
 	display:flex;
-	align-items:center;
+	
 }
